@@ -1,5 +1,5 @@
 [Explanation_English.md](https://github.com/user-attachments/files/34254401/Explanation_English.md)
-# EXOSYS CartoEngine (Standalone ESP32-S3 Edition)
+# EXOSYS CartoEngine (Standalone ESP32-S3 Edition - BETA)
 
 Offline vector/raster cartographic rendering engine (`.QOI`) and multi-layer A* heuristic routing solver (`.HWY`) engineered for **ESP32-S3** microcontrollers with PSRAM. It delivers sub-pixel kinetic panning at up to 125 FPS, lock-free IRAM decompression, zero-copy pointer swapping, and multi-kilometer route calculation in seconds within a strict **3.28 MB PSRAM** budget.
 
